@@ -1,0 +1,11 @@
+Testcase: edu.umb.cs680.hw04.SCTest
+Test: loginFailedTest() took 7 milli sec(s)
+Test: initialLogoutState() took 0 milli sec(s)
+Test: loginTest() took 0 milli sec(s)
+Test: logoutToLogout() took 1 milli sec(s)
+Test: loginToLogout() took 0 milli sec(s)
+Test: testForSingletonOfLoggedOutLoggedIn() took 0 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 15 milli sec(s)
+------------- Standard Output ---------------
+You are already logged out
+------------- ---------------- ---------------
