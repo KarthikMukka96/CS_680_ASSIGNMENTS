@@ -1,0 +1,35 @@
+Testcase: edu.umb.cs680.hw16.StockApp.StockQuoteObservableTest
+Test: testNotifyObservers() took 1 milli sec(s)
+Test: testStockEventUpdate() took 2 milli sec(s)
+Test: testAddObserver() took 0 milli sec(s)
+Test: testClearObservers() took 0 milli sec(s)
+Test: testRemoveObserver() took 1 milli sec(s)
+Test: testNotifyObserversWithMultipleQuotes() took 0 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 5 milli sec(s)
+------------- Standard Output ---------------
+Received Stock Event: AAPL - 150.0
+Received Stock Event: AAPL - 150.0
+Received Stock Event: ABC - 104.64995346010409
+Updating TableObserver with ticker = ABC and quote = 104.64995346010409
+Updating LineChartObserver with ticker = ABC and quote = 104.64995346010409
+Updating 3DObserver with ticker = ABC and quote = 104.64995346010409
+Received Stock Event: ABC - 100.47946777187077
+Updating TableObserver with ticker = ABC and quote = 100.47946777187077
+Updating LineChartObserver with ticker = ABC and quote = 100.47946777187077
+Updating 3DObserver with ticker = ABC and quote = 100.47946777187077
+Received Stock Event: ABC - 99.7542115480324
+Updating TableObserver with ticker = ABC and quote = 99.7542115480324
+Updating LineChartObserver with ticker = ABC and quote = 99.7542115480324
+Updating 3DObserver with ticker = ABC and quote = 99.7542115480324
+Received Stock Event: ABC - 100.64421110631174
+Updating TableObserver with ticker = ABC and quote = 100.64421110631174
+Updating LineChartObserver with ticker = ABC and quote = 100.64421110631174
+Updating 3DObserver with ticker = ABC and quote = 100.64421110631174
+Received Stock Event: ABC - 104.6917734037029
+Updating TableObserver with ticker = ABC and quote = 104.6917734037029
+Updating LineChartObserver with ticker = ABC and quote = 104.6917734037029
+Updating 3DObserver with ticker = ABC and quote = 104.6917734037029
+Received Stock Event: AAPL - 150.0
+Received Stock Event: GOOGL - 2500.0
+Received Stock Event: TSLA - 600.0
+------------- ---------------- ---------------
