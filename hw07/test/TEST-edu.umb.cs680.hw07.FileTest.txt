@@ -1,0 +1,8 @@
+Testcase: edu.umb.cs680.hw07.FileTest
+Test: testOnA() took 0 milli sec(s)
+Test: testOnB() took 0 milli sec(s)
+Test: testOnC() took 0 milli sec(s)
+Test: testOnD() took 0 milli sec(s)
+Test: testOnX() took 0 milli sec(s)
+Test: isDirectory() took 0 milli sec(s)
+Tests run: 6, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 4 milli sec(s)

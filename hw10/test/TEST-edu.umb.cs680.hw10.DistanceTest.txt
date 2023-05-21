@@ -1,0 +1,9 @@
+Testcase: edu.umb.cs680.hw10.DistanceTest
+Test: testDistanceValueForPointsWithDifferentDimensions() took 1 milli sec(s)
+Test: testEuclideanDistanceMatrixForFiveThreeDimensionalPoints() took 1 milli sec(s)
+Test: testManhattanDistanceMatrixForPoints() took 0 milli sec(s)
+Test: testEuclideanDistanceValueBetweenPoints() took 0 milli sec(s)
+Test: testManhattanDistanceValueBetweenPoints() took 0 milli sec(s)
+Test: testEuclideanDistanceMatrixForPoints() took 0 milli sec(s)
+Test: testManhattanDistanceMatrixForFiveThreeDimensionalPoints() took 1 milli sec(s)
+Tests run: 7, Failures: 0, Skipped: 0, Aborted: 0, Time elapsed: 4 milli sec(s)
